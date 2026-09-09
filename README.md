@@ -75,6 +75,18 @@ Student productivity web app with nine feature sections for staying on track.
 
 <br/>
 
+<h3 align="center">🐍 My Contributions</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shrestha321/Shrestha321/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shrestha321/Shrestha321/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shrestha321/Shrestha321/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
 <h3 align="center">🤝 Connect With Me</h3>
 
 <div align="center">
